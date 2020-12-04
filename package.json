@@ -1,0 +1,20 @@
+{
+  "name": "aoc2020d4-passportprocessing-",
+  "version": "1.0.0",
+  "description": "The automatic passport scanners are slow because they're having trouble detecting which passports have all required fields.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilJohnJohansson/AoC2020D4-PassportProcessing-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilJohnJohansson/AoC2020D4-PassportProcessing-/issues"
+  },
+  "homepage": "https://github.com/EmilJohnJohansson/AoC2020D4-PassportProcessing-#readme"
+}
